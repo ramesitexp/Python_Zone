@@ -1,0 +1,5 @@
+2024-08-27 19:30:10,187 - context_logger - DEBUG - This is a debug message - test_func - 12
+2024-08-27 19:30:10,192 - context_logger - INFO - This is an info message - test_func - 13
+2024-08-27 19:30:10,192 - context_logger - WARNING - This is a warning message - test_func - 14
+2024-08-27 19:30:10,192 - context_logger - ERROR - This is an error message - test_func - 15
+2024-08-27 19:30:10,192 - context_logger - CRITICAL - This is a critical message - test_func - 16

@@ -1,0 +1,10 @@
+2024-08-27 19:28:14,823 - __main__ - DEBUG - This is a debug message
+2024-08-27 19:28:14,823 - __main__ - INFO - This is an info message
+2024-08-27 19:28:14,823 - __main__ - WARNING - This is a warning message
+2024-08-27 19:28:14,823 - __main__ - ERROR - This is an error message
+2024-08-27 19:28:14,831 - __main__ - CRITICAL - This is a critical message
+2024-08-27 19:30:10,187 - context_logger - DEBUG - This is a debug message
+2024-08-27 19:30:10,192 - context_logger - INFO - This is an info message
+2024-08-27 19:30:10,192 - context_logger - WARNING - This is a warning message
+2024-08-27 19:30:10,192 - context_logger - ERROR - This is an error message
+2024-08-27 19:30:10,192 - context_logger - CRITICAL - This is a critical message
